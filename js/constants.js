@@ -3,11 +3,9 @@
 module.exports = Object.freeze({
     
     // App-ID
-    appId : 'amzn1.ask.skill.484e72b8-c2c9-4dba-a23e-a09a24effa83',
+    appId : 'amzn1.ask.skill.a4e6df9a-d2f0-459a-8dc8-2027e8e4d4b3',
     
-    //  DynamoDB Table name
-    dynamoDBTableName : 'LongFormAudioSample',
-    
+
     /*
      *  States:
      *  START_MODE : Welcome state when the audio list has not begun.
